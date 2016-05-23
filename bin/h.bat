@@ -1,0 +1,12 @@
+Reader locked record 1 for read
+Reader read 1 value = null
+Reader released record 1 for read
+Reader locked record 0 for read
+Reader read 0 value = null
+Reader released record 0 for read
+Reader locked record 0 for read
+Reader read 0 value = null
+Reader released record 0 for read
+Reader locked record 1 for read
+Reader read 1 value = null
+Reader released record 1 for read
